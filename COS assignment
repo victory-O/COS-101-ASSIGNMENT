@@ -1,0 +1,37 @@
+def a():
+    # force = "mass * acceleration"
+    mass=int(input("what is the mass?"))
+    acceleration=int(input("what is the acceleration?"))
+    print(mass*acceleration)
+
+def b():
+    # newton's second law of motion = "f=ma"
+    force=int(input("what is a force?"))
+    mass=int(input("what is the mass?"))
+    acceleration=int(input("what is the acceleration"))
+    print(mass * force)
+def c():
+    #ohm's law = v=IR
+     voltage=int(input("what is the voltage?"))
+    current=int(input("what is the current?"))
+    resistance=int(input("what is the resistance?"))
+    law  =Pv=
+    pressure = int(input("what is the pressure?"))
+    gas = int(input("what is the number of the moles?"))
+    constant = int(input("what is the ideal gas constant?"))
+    temperature = int(input("what is the temperature?"))
+    print ()
+def d():
+     #kinematic equation=v=u+at
+    velocity=int(input("what is the final velocty?"))
+     velocity=int(input("what is the initial velocity?"))
+     acceleration =int(input("what is the acceleration?"))
+     time =int(input("what is the time?"))
+     print (velocity * acceleration)
+def e():
+     #gravitational potential energy =pe=mgh
+    #gravitational potential energy=int(input("what is the gravitational potential energy?"
+mass=int(input("what is the mass?"))
+   gravity=int(input("what is the acceleration due to gravity?"))
+    #height above a reference point=int(input("what is the height above a reference point?"))
+     print (mass * gravity)
